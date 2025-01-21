@@ -13,7 +13,7 @@ Hi! I'm Jezeer Ahamed, a budding data analyst passionate about solving problems 
 
 ## Projects
 1. **[Project Name](#)**  
-   A brief description of the project. *(More projects coming soon!)*
+    *(More projects coming soon!)*
 
 ## Contact
 - **Email:** jezeerahamed254@gmail.com
