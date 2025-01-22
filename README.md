@@ -13,7 +13,7 @@ Hi! I'm Jezeer Ahamed, a budding data analyst passionate about solving problems 
 
 ## Files in This Repository
 - `superstore_analysis.ipynb`: Jupyter Notebook containing the full analysis, including data cleaning, exploration, and visualizations.
-- `superstore_sales.xls`: Dataset used in the analysis.
+- `superstore_sales.csv`: Dataset used in the analysis.
 
 ## Projects
 1. **[Superstore Sales Analysis](#)**  
